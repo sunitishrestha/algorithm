@@ -282,20 +282,3 @@ python analysis/time_complexity.py
 5. **Adjacency list** would be more efficient for real-world sparse graphs — O(V + E)
 
 ---
-
-## 👥 Team Members
-
-| Name | Roll No. | Responsibility           |
-| ---- | -------- | ------------------------ |
-|      |          | DFS Implementation       |
-|      |          | BFS Implementation       |
-|      |          | Time Complexity Analysis |
-|      |          | Testing & Documentation  |
-
----
-
-## 📚 References
-
-- Introduction to Algorithms — CLRS (Chapter 22: Elementary Graph Algorithms)
-- Graph Theory fundamentals — DFS/BFS traversal
-- Adjacency Matrix vs Adjacency List trade-offs
